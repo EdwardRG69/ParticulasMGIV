@@ -1,0 +1,19 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/luzgu/Documentos/Github/Particulas/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"D:/luzgu/Documentos/Github/Particulas/Content/MIO/Level/Particulas.umap",
+				"D:/luzgu/Documentos/Github/Particulas/Content/MIO/Material/M_WiriFlame.uasset",
+				"D:/luzgu/Documentos/Github/Particulas/Content/MIO/Material/M_WiriFlame_1.uasset",
+				"D:/luzgu/Documentos/Github/Particulas/Content/MIO/Material/M_Noise.uasset",
+				"D:/luzgu/Documentos/Github/Particulas/Content/MIO/Material/M_Wood.uasset",
+				"D:/luzgu/Documentos/Github/Particulas/Content/MIO/Material/M_Wood_Inst.uasset",
+				"D:/luzgu/Documentos/Github/Particulas/Content/MIO/Material/M_Noise_Inst.uasset"
+			]
+		}
+	]
+}
